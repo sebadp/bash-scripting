@@ -1,7 +1,8 @@
 # Bash-scripting
 
  Extracts all files with the .txt extension and renames them
- with the TXT_RENAME_PREFIX if exists as a local variable
+ with the TXT_RENAME_PREFIX if exists as a local variable.
+ 
  If not, it uses the default value = "RN_"
 
 ## Here an example:
